@@ -14,7 +14,3 @@ This is a stock trading application built with React. It allows users to trade s
 -**React:** JavaScript library for building user interfaces.
 -**Alpha Vantage API:** Provides real-time and historical stock data.
 -**CSS:** For styling the application.
-
-### Deployment
-
--you can view the live application at https://Sk-Siva.github.io/Conversely-Assignment-2
